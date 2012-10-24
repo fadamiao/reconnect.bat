@@ -1,0 +1,1 @@
+@echo offtitle Reconnect Dialping.exe 74.125.234.83 -w 350000if errorlevel 1 goto notgoto exit:notrasdial /disconnectrasdial INSERTTHECONNECTIONHEREecho Workinggoto exit:exitexit
